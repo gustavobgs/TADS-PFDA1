@@ -3,6 +3,12 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<locale.h>
+
+void novafunção(){
+   printf("teste")
+}
+
+
 /*Função Principal*/
 int main (){
 /*acentuação das palavras*/	
